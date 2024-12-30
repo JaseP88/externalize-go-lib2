@@ -1,0 +1,1 @@
+# externalize-go-lib2
